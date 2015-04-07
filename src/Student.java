@@ -9,6 +9,7 @@ class Student extends Person{
     }
     void Display(){
         super.Display();
+
         System.out.println("ID : " + id);
         System.out.println("Teacher: " + teacher);
     }
