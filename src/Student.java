@@ -1,4 +1,4 @@
-class Student extends Person {
+class Student extends Person{
     int id;
     String teacher;
  
